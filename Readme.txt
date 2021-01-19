@@ -1,0 +1,3 @@
+- Save word in doc.txt
+- Run code: node biendoi.js
+- Result in ghi.txt
